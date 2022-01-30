@@ -1,0 +1,22 @@
+/* Classe principale de la barre de navigation */
+.navbar-default {
+    /* Couleur de fond de la barre de navigation */
+    background: rgb(29,181,204);
+background: linear-gradient(90deg, rgba(29,181,204,1) 0%, rgba(27,168,197,1) 50%, rgba(26,151,189,1) 100%);
+    border-color: #E7E7E7;
+    height: 100px;
+    z-index: 0;
+   }
+
+   #navbarDropdown{
+       border: 1px white solid;
+       border-radius: 20px;
+   }
+
+  .BoxE{
+      border: 1px black solid;
+      height: 60px;
+      background-color: red;
+  }
+
+  

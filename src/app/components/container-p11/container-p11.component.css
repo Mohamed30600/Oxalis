@@ -1,0 +1,51 @@
+#box1{
+     border: 2px solid black;
+     height: 70px;
+     border-radius: 5px;
+     margin-left: 10px;
+     margin-top: 30px;
+     background-color: #002f41;
+
+}
+#interD{
+     color:red;
+     font-size:small;
+     margin-top: 5px;
+}
+#desc{
+     color: white;
+     font-size:small;
+     margin-top: -20px;
+}
+#box2{
+    border-radius: 5px;
+     height: 100px;
+     margin-left: 10px;
+     margin-top: 15px;
+     background-color: white;
+}
+#identiter{
+     margin-top: 5px;
+     font-size: large;
+     font-weight: bold;
+     font-size: larger;
+}
+#coordonnees{
+     margin-top: -25px;
+     font-size: small;
+}
+#box3{
+    border-radius: 5px;
+    height: 430px;
+}
+
+.position{
+     margin-left: 150px;
+}
+.position2{
+     margin-left: 205px;
+}
+
+.position3{
+     margin-left: 105px;
+}
